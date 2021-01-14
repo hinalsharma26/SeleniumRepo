@@ -8,6 +8,9 @@ public class Selenium1Test {
 	public void browserAutomation()
 	{
 		System.out.println("This is browser automation code");
+		System.out.println("This is browser automation code- Git Another Work Space1");
+		System.out.println("This is browser automation code- Git Another Work Space2");
+		System.out.println("This is browser automation code- Git Another Work Space3");
 	}
 	
 	@Test
